@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1033852236152",
+    "firebase_url": "https://moneyacapp-7cdc3-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "moneyacapp-7cdc3",
+    "storage_bucket": "moneyacapp-7cdc3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033852236152:android:2ed9cfb1099ff83bb4d88d",
+        "android_client_info": {
+          "package_name": "com.example.mobileapp_moneyac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033852236152-g6sdn3brvdro2mv4a5p7c03fppd1q08i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mobileapp_moneyac",
+            "certificate_hash": "c0aa597ee653dc3f3784a87a7f362caf49d593d0"
+          }
+        },
+        {
+          "client_id": "1033852236152-h5ucr6u5hv9cvfs150d7c3l1qqt7rai4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8NQTbs1qMRA0s-tYpaA5RbRnGGodHCcU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1033852236152-h5ucr6u5hv9cvfs150d7c3l1qqt7rai4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
